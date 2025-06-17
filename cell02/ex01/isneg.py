@@ -6,4 +6,4 @@ if number < 0:
     print("this number is negative.")
 if number > 0:
     print("this number is positive.")
-print(" ")
+print()
